@@ -1,0 +1,12 @@
+/*Main Page Style*/
+    h1 {color:midnightblue;background-color:lightblue;font-family:futura}
+
+    TR {color:ghostwhite;background-color:darkblue;font-family:Arial;font-size:14pt}
+           
+    body{background-color:ghostwhite}
+            
+    a {color:ghostwhite;Font-Family:Arial}
+        
+    .center {text-align:center}
+    .button {background-color:darkblue;color:ghost;text-decoration:none;font-family:verdana;font-size:16px;cursor:pointer}
+    
